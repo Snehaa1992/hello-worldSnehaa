@@ -6,4 +6,4 @@ The concept of maser and subsequent branches is nice !
 Commit Msg: #1 change has been done.
 
 
-Exploring integration of GitHub and Slack :)
+Making unauth mode
